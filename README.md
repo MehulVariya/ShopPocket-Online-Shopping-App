@@ -28,6 +28,6 @@ A fitness app leveraging Firebase and Firebase Authentication, built on clean ar
 
 ## LICENSE
   
-  - Copyright (c) 2024 The Track2Fit Wishes Author - [MIT License]
+  - Copyright (c) 2024 The ShopPocket Author - [MIT License]<br>
  [MIT License]: https://github.com/MehulVariya/ShopPocket-Online-Shopping-App/blob/main/LICENSE.txt
 
