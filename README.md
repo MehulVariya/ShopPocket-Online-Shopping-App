@@ -16,6 +16,13 @@ A fitness app leveraging Firebase and Firebase Authentication, built on clean ar
 - __Technologies Used :__ Firebase for authentication, clean architecture, Flutter state management.
 
 ## 🤩 Designs:
+<div style = ""> 
+<img src="https://github.com/MehulVariya/ShopPocket-Online-Shopping-App/blob/main/images/1.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/ShopPocket-Online-Shopping-App/blob/main/images/2.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/ShopPocket-Online-Shopping-App/blob/main/images/3.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/ShopPocket-Online-Shopping-App/blob/main/images/4.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/ShopPocket-Online-Shopping-App/blob/main/images/5.jpg" width="32%"/>
+</div>
 
 
 ## 📱 Technologies / Tools used for building this app includes:
